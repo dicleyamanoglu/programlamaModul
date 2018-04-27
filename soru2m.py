@@ -1,4 +1,4 @@
-from odev2 import *
+from soru2 import *
 aktif(donenVarliklar,duranVarliklar)
 pasif(kVadeli,uVadeli,ozKaynak)
 if p==a:
