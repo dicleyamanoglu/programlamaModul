@@ -1,4 +1,4 @@
-from odev3 import *
+from soru3 import *
 etkilesimO1(begeni1,yorum1,paylasim1,icerik1,takipci1)
 etkilesimO2(begeni2,yorum2,paylasim2,icerik2,takipci2)
 etkilesimO3(begeni3,yorum3,paylasim3,icerik3,takipci3)
